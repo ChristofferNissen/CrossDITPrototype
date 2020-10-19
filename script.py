@@ -41,7 +41,7 @@ def update_annot(ind):
         highLighted = ax.scatter(res.ShootLong, res.ShootLat, zorder=1, alpha= 0.2, c='r', s=10)
         highLighted.set_visible(True)
 
-    date = res[['Date', 'SurveyName', 'Country', 'Ship', 'Depth', 'UnitWgt', 'LT_Weight', 'UnitItem', 'LT_Items']]
+    date = res[['Date', 'SurveyName', 'Country', 'Ship', 'Depth', 'UnitWgt', 'LT_Weight', 'UnitItem', 'LT_Items', 'ShootLong', 'ShootLat', 'HaulLong', 'HaulLat']]
     print(date)
 
     text = "Id"
@@ -81,7 +81,6 @@ annot = ax.annotate("", xy=(0,0), xytext=(20,20),textcoords="offset points",
                     bbox=dict(boxstyle="round", fc="w"),
                     arrowprops=dict(arrowstyle="->"))
 annot.set_visible(False)
-
 
 fig.canvas.mpl_connect("motion_notify_event", hover)
 
