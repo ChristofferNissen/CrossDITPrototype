@@ -1,0 +1,312 @@
+BeachCode,BeachName,Country,BeachInfoAmmendment,FillingDate,FillingName,FillingPhone,FillingMail,FillingInstitute,UrbanizationDegree,ReferenceBeach,BeachWidthLow,BeachWidthHigh,BeachLength,BeachLatitude,BeachLongitude,CoordinateSystem,BeachBack,BeachBackOther,BeachBackDevelopment,DevelopmentDescription,PositionMeasurementDate,CurrentsDirection,WindsDirection,BeachOrientation,BeachMaterial,BeachTopography,Obstacles,Usage1,Usage1Seasonality,Usage2,Usage2Seasonality,Usage3,Usage3Seasonality,BeachAccess,BeachCleaningSeasonality,SeasonalityMonths,CleaningFrequency,OtherDescription,CleaningMethod,CleaningResponsible,Notes
+BE001,Oostende,BE,,,,,,,,no,300,,,51.241553,2.937111,4326,Dunes,,no,But this will change in future...,,E;N,S;W,NW,Sand,,harbour waill (since 2011),Board sports,no,Building sand castles,no,,,,yes,6;7;8;9,Weekly,,Manual,Oostende,More and more under the influence of harbour extension and construction activities and sand suppletions
+BE002,Koksijde: St.- André,BE,,,,,,,,no,700,,,,,4326,,,,,,E;N,S;W,NW,Sand,"Gently sloping, exposed",,,,,,,,,yes,,Other,"daily in the summer, weekly in the spring, autumn and winter",,,"Cleaning details: Daily in the summer, weekly in the spring, autumn, and winter."
+BE003,Raversijde,BE,,,,,,,,no,200,350,,51.204569,2.851456,4326,Dunes,,yes,partly appartements and coastal road,,E;N,S;W,NW,Sand,,groynes,Coastal walking,yes,Building sand castles,no,,yes,Pedestrian,yes,4;5;6;7;8;9;10,Daily,,Mechanical,Oostende,
+BG0001,Durankulak,BG,,2016-03-10,,,,,,no,,,,43.696389,28.566389,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+BG0002,Krapets – North,BG,,2016-03-10,,,,,,no,,,,43.660278,28.568889,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+BG0003,Asparuhovo,BG,,2016-03-11,,,,,,no,,,,43.185556,27.889722,4326,,,,,,,,,,,,,,,,,,,,,,,,,"coastline along ""Asparuhovo"" quarter  (new canal connecting the Black sea with Varna lake)"
+BG0004,Shkorpilovtsi,BG,,2016-03-11,,,,,,no,,,,42.960278,27.8975,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+BG0005,Children camp Obzor,BG,,2016-03-12,,,,,,no,,,,42.800278,27.89,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+BG0006,Irakli,BG,,2016-03-12,,,,,,no,,,,42.749444,27.889167,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+BG0007,Salt Pans JSC,BG,,2016-03-13,,,,,,no,,,,42.511667,27.484722,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+BG0008,Alepu beach,BG,,2016-03-13,,,,,,no,,,,42.368611,27.709167,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0001,BINZ_SO_01,DE,,2016-12-16,,,,,,no,,,,54.399952,13.63524,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0002,BOIENSDFW_ZP_01,DE,,2014-11-03,,,,,,no,,,,54.032285,11.520908,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0003,BUG_SW_01,DE,,2017-02-19,,,,,,no,,,,54.566608,13.161356,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0004,DARSS_MÜL_01,DE,,2017-01-20,,,,,,no,,,,54.428262,12.472595,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0005,GLOWE_KH_01,DE,,2017-01-25,,,,,,no,,,,54.573187,13.481374,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0006,GÖHREN_NP_01,DE,,2016-12-20,,,,,,no,,,,54.34132,13.762585,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0007,GWOIE_HF_01,DE,,2014-07-18,,,,,,no,,,,54.244423,13.910191,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0008,HIDDENS_GEL_01,DE,,2016-09-15,,,,,,no,,,,54.47882,13.060425,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0009,HIDDENS_NBE_01,DE,,2015-02-02,,,,,,no,,,,54.589734,13.154216,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE001,Sylt (island),DE,,,,,,,,no,50,40,36000,54.790744,8.282683,4326,Dunes,,yes,road parallel to beach and ca. 350m behind the beach,1970-01-01,N;W,W,W,Sand,"Gently sloping, exposed",no,Swimming,yes,Sunbathing,yes,,,Pedestrian,yes,,Other,Daily/weekly,Manual,,"Cleaning details: Yes. Daily/Weekly. In the spring, summer, autumn and winter swimming & sunbathing low level in northern part of site in summer Traffic Separation Scheme German Bight (VTG) 80km to south Size of harbour (number of ships): (365X100m) ca.6100 ship movements a year beach rarely cleaned"
+DE0010,KÄGSDF_RS_01,DE,,2017-01-19,,,,,,no,,,,54.145052,11.66781,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0011,KLZICKER_OL_01,DE,,2016-12-15,,,,,,no,,,,54.280521,13.694903,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0012,LUBMIN_FRS_01,DE,,2017-01-13,,,,,,no,,,,54.157852,13.665762,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0013,MUKRAN_FH_01,DE,,2017-01-24,,,,,,no,,,,54.488315,13.59767,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0014,NOBBIN_HG_01,DE,,2017-01-25,,,,,,no,,,,54.652478,13.394186,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0015,POEL_GOL_01,DE,,2017-01-10,,,,,,no,,,,54.024296,11.468424,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0016,ROSENHGN_HBÄ_01,DE,,2017-01-10,,,,,,no,,,,53.969364,10.943034,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0017,SELLIN_GR_01,DE,,2017-01-24,,,,,,no,,,,54.391954,13.684006,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0018,STEINBECK_KLH_01,DE,,2017-01-10,,,,,,no,,,,54.010092,11.136577,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0019,STUBBEN_KNG_01,DE,,2016-04-29,,,,,,no,,,,54.573148,13.663215,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE002,Scharhörn (island),DE,,,,,,,,no,1000,100,2800,53.963333,8.439722,4326,Dunes,,no,,1970-01-01,N;W,W,NW,Sand,gently sloping 10% exposed,no,,,,,,,,,,,,,,Scharhörn is a more or less circular island in the mouth of the river Elbe. It is part of the National Park Hamburg Wattenmeer and is uninhabited. Cleaning details: Not cleaned Tourist population of Cuxhaven not known Size of harbour Cuxhaven 2005: 1.88 M!io. t cargo turnover (Port of Hamburg 11.899 vessels in 2008. 7.155 thereof were containerships)
+DE0020,TARNEWZ_HUK_01,DE,,2014-10-17,,,,,,no,,,,53.978428,11.256496,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0021,USEDOM_PE_01,DE,,2017-01-13,,,,,,no,,,,54.154718,13.818341,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0022,VARNKEVZ_HL_01,DE,,2016-12-15,,,,,,no,,,,54.682207,13.371668,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0023,VILM_WS_01,DE,,2016-12-16,,,,,,no,,,,54.319781,13.529992,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0024,WIESCHENDF_HUK_02,DE,,2017-01-10,,,,,,no,,,,53.958746,11.332089,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0025,ZINGST_KIR_01,DE,,2017-01-20,,,,,,no,,,,54.440034,12.79441,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE0026,ZINGST_WAS_01,DE,,2017-01-20,,,,,,no,,,,54.439793,12.817217,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE003,Minsener Oog (island),DE,,,,,,,,no,25,2,,53.756467,8.022667,4326,Dunes,,no,,1970-01-01,N;S,N;W,E,Sand,more or less steep,yes,,,,,,,,,,,,,,"Cleaning details: Not cleaned, but cleaned after survey Minsener Oog is an island in the Wadden Sea in the mouth of the river Jade. It is uninhabited. As a part of the Nationalpark Niedersächsisches Wattenmeer puplic access is prohibited Prevailing currents depend on the tide and are north during falling tides and south during rising tides 2-3 fishing boats are moored the nearest harbour."
+DE004,Norderney,DE,,,,,,,,no,,,,,,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DE005,Juist,DE,,,,,,,,no,200,50,16000,53.675594,6.931247,4326,Dunes,,no,,1970-01-01,W,W,NW,Sand,2-4%,no,Coastal walking,no,,,,,Pedestrian,,,Other,during surveys,Manual,local authorities,"Cleaning details: Not cleaned, but cleaned after survey Population size of this town: Residential: ca. 1696 (the whole island 31.Dec. 2009) Tourist: 89015 visitors, 589664 overnight stays (the whole island 2008). Size of harbour: Emden 6.51 Mio. t cargo turnover 2008  5.46 Mio. t cargo turnover 2009     Der Norddeicher Hafen dient vorwiegend dem FÃ¤hr- und Frachtverkehr zu den ostfriesischen Inseln Juist und Norderney. Er ist nach Puttgarden und Rostock der drittgrÃ¶ÃŸte Personenhafen Deutschlands und der grÃ¶ÃŸte in Niedersachsen. JÃ¤hrlich fahren rund 2,25 Millionen Passagiere von hier aus zu den Inseln Norderney und Juist. Daneben werden pro Jahr 175.000 Fahrzeuge zur Insel Norderney transportiert, die im Sommer im Stundentakt angefahren wird. Insgesamt werden zu beiden Inseln zirka 11.000 Linienfahrten pro Jahr angeboten.[27]  Die Fischereiflotte hat ihr Domizil heute im Osthafen, der Westhafen bietet Platz fÃ¼r bis zu 400 Yachten.[19]  Norddeich ist Sitz einer Rettungsstation der Deutschen Gesellschaft zur Rettung SchiffbrÃ¼chiger (DGzRS), die hier das Seenotrettungsboot Cassen Knigge stationiert hat."
+DK0001,MSFD Kofoeds enge,DK,,2016-10-15,,,jak@bios.au.dk,,Rural,yes,,,,55.55767,12.57666,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DK0002,"MSFD Pomlenakke, Falster",DK,,2016-10-15,,,jak@bios.au.dk,,Rural,yes,,,,54.80588,12.12396,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DK0003,"Risø, Roskilde bredning",DK,,2016-10-05,,,jak@bios.au.dk,,Rural,yes,,,,55.69224,12.08366,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+DK001,MSFD Nymindegab Strand,DK,,,,,,,,no,70,30,,55.841508,8.163803,4326,Dunes,,yes,Summer cottages ca. 1 km north of the beach,,S,W,W,,relatively flat - 5% slope from dunes to the sea,No,Military training,no,Coastal walking,no,,yes,Pedestrian;Vehicle,,,,,,,"Agreement that the beach remains uncleaned. Main usage of beach is for military training, which happens intermittently all year round."
+DK004,MSFD Skagen Skagen Strand,DK,,,,,,,,no,25,60,5000,57.748631,10.581861,4326,Dunes,,no,,,E,W,N,CoarseSediment,"Gently sloping, exposed",,Coastal walking,no,,yes,,no,Pedestrian,yes,4;5;6;7;8;9;10,Weekly,,Manual,The municipality of Frederikshavn,Cleaning details: 2 times per mont april-sept (and occasionally in winter
+ES0001,Cal Francesc,ES,,2016-10-01,,,,,,no,,,,41.274378,2.062769,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES001,A Lanzada,ES,,,,,,,,no,65,30,2600,42.4515,-8.878583,4326,Dunes,,yes,"Behind the beach there is a road, and inside the duna field there are two car parking lots",,N,S;W,SW,Sand,"Gently sloping, exposed",,,yes,Coastal walking,no,,,Boat;Pedestrian;Vehicle,yes,,Other,daily during summer,Mechanical,The city council,"Cleaning details: Daily, summer (items removed during survey)"
+ES002,Baldaio,ES,,,,,,,,no,150,20,3500,43.297783,-8.681767,4326,Dunes,,no,,,N,S;W,N,Sand,"Gently sloping, exposed",no,,yes,,,,,Pedestrian,yes,,Other,weekly during summer,Manual;Mechanical,"Local authorities, volunteers",
+ES003,Valdevaqueros beach,ES,,,,,,,,no,40,15,3800,36.058028,-5.670667,4326,Dunes,,no,,,N;W,E;S,SW,MixedSediment,"Flat, exposed",no,,yes,,,,,Pedestrian;Vehicle,yes,,Other,"weekly all year round, daily during summer",Manual;Mechanical,The town council,
+ES004,O Rostro,ES,,,,,,,,no,75,25,1900,42.962033,-9.269017,4326,Dunes,,no,,,N,N;W,W,Sand,Medium slope,no,,yes,Board sports,yes,,,Pedestrian;Vehicle,no,,Other,once per year,Manual,Local authorities,"Very scarce tourism because of the dangerousness, all year round"
+ES005,La Vega,ES,,,,,,,,no,135,49,1700,43.4806,-5.136194,4326,Dunes,,yes,Public walking paths and public toilets,,N,N,N,MixedSediment,Flat,,,yes,,,,,Pedestrian;Vehicle,yes,,Other,summer,Manual;Mechanical,Cogersa Company,
+ES006,Laga,ES,,,,,,,,no,90,30,700,43.40887,-2.65832,4326,Dunes,,yes,Car parking,,E;W,E,N,Sand,gently sloped,no,Board sports,no,,yes,Coastal walking,no,Pedestrian;Vehicle,no,,Daily,,Manual;Mechanical,Municipality,
+ES007,Agiti,ES,,,,,,,,no,56,12,700,43.307481,-2.072939,4326,,,yes,Shepherding and farming,,E;N,N;W,NW,,Heavy slope,no,Building sand castles,no,,,,,Boat;Pedestrian;Vehicle,yes,,Other,Never,,,"Due to the fact that the beach is only 700 m length, the 1 km survey is carried out only over the total length of the beach."
+ES008,Menacoz,ES,,,,,,,,no,57,15,270,43.395231,-2.985467,4326,Cliffs,,no,,,N;W,N;W,NW,MixedSediment,heavy slope,No,Building sand castles,no,,yes,Board sports,yes,Pedestrian,yes,,Other,summer,Manual,Diputacion Foral de Vizcaya,
+ES009,Berria,ES,,,,,,,,no,150,30,1850,43.46535,-3.47044,4326,Dunes,,no,,,,,N,Sand,Slight slope,,Building sand castles,yes,,,,,Pedestrian;Vehicle,yes,,Other,"other all year round, daily during summer",Manual;Mechanical,town council,
+ES010,Covas,ES,,,,,,,,no,50,,1500,43.671886,-7.609031,4326,Dunes,,no,,,N;S,N,N,MixedSediment,Slight slope,,,yes,,,,,Pedestrian;Vehicle,,,,,Manual;Mechanical,The town council,
+ES011,Castilla,ES,,,,,,,,no,120,40,17000,37.076778,-6.702,4326,Dunes,,no,,,S;W,S;W,SW,Sand,Flat,no,,,,,,,Vehicle,no,,Other,Never,,,
+ES012,Castilnovo,ES,,,,,,,,no,375,70,2800,36.256667,-6.083889,4326,Dunes,,no,,,N;W,W,SW,Sand,Slight slope near to the shore and flat at the rest of the beach,no,,yes,,,,,Pedestrian,yes,,Other,"monthly all year round, daily during summer",Manual;Mechanical,Local authorities,
+ES013,Oyambre,ES,,,,,,,,no,150,30,2130,43.389611,-4.328944,4326,Dunes,,no,,,,,N,MixedSediment,flat,,,yes,Coastal walking,no,,,Pedestrian;Vehicle,yes,4;5;6;7;8;9;10,Other,"other all year round, daily april to october",Manual;Mechanical,Municipalities (Valdigna and San Vicente),The beach is included within a Natural Park
+ES014,Rodas,ES,,,,,,,,no,60,,1300,42.2197,-8.9017,4326,,,yes,A pier at N and behind a road and a camping,,N;S,N;S,E,Sand,Slight slope,A pier in the north,Amusements,yes,,yes,,,Boat;Pedestrian,yes,,Other,"other all year round, daily during summer",Manual,National Park staff,
+ES14,El Socorro,ES,,2016-10-01,,,,,,no,,,,28.394111,-16.602978,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES15,Mujeres,ES,,2014-10-01,,,,,,no,,,,28.85444,-13.79417,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES16,Bajamar,ES,,2016-10-01,,,,,,no,,,,36.721953,-4.143439,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES17,Carchuna,ES,,2016-10-01,,,,,,no,,,,36.695525,-3.439953,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES18,Balerma,ES,,2016-10-01,,,,,,no,,,,36.699769,-2.858572,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES19,La Llana,ES,,2016-10-01,,,,,,no,,,,37.815028,-0.758167,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES20,La Gola,ES,,2016-10-01,,,,,,no,,,,38.158089,-0.624139,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES21,Marenys,ES,,2016-10-01,,,,,,no,,,,39.076078,-0.208831,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES22,La Basseta,ES,,2016-10-01,,,,,,no,,,,40.288167,0.333333,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES23,Eucaliptus,ES,,2016-10-01,,,,,,no,,,,40.644583,0.763833,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES24,Prat de Llobregat,ES,,2015-07-01,,,,,,no,,,,41.29239,2.11767,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES25,Can Comes,ES,,2016-10-01,,,,,,no,,,,42.224081,3.117661,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES26,Es Trenc,ES,,2016-10-01,,,,,,no,,,,39.349839,2.978506,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES27,Levante,ES,,2016-10-01,,,,,,no,,,,38.755278,1.436667,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+ES28,Janubio,ES,,2016-10-01,,,,,,no,,,,28.931111,-13.828611,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+EST001,Viimsi,EE,,2016-08-02,,,,,,no,,,,59.562756,24.808714,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+EST002,Orissaare,EE,,2016-09-22,,,,,,no,,,,58.561917,23.081433,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+EST003,Kolga-Aabla,EE,,2016-08-04,,,,,,no,,,,59.573809,25.527236,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+EST004,Loksa,EE,,2016-08-04,,,,,,no,,,,59.596318,25.710398,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+EST005,Valgeranna,EE,,2016-07-28,,,,,,no,,,,58.386035,24.368329,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+EST006,Saka,EE,,2016-08-25,,,,,,no,,,,59.438464,27.156612,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+EST007,Kaleste,EE,,2016-07-28,,,,,,no,,,,58.907167,22.1324,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+EST008,Metsapoole,EE,,2016-09-15,,,,,,no,,,,57.908816,24.37274,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+EST009,Nõva,EE,,2016-09-01,,,,,,no,,,,59.242019,23.64584,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+EST010,Ohessaare,EE,,2016-09-06,,,,,,no,,,,58.002804,22.028854,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+FI0001,Mustfinn,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Periurban,no,10,10,152,60.306588,22.101344,4326,,,,,2012-09-15,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0002,Kotka outer,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Periurban,no,10,10,100,60.419954,26.982581,4326,,,,,2012-04-15,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0003,Kotka inner,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Periurban,no,10,10,100,60.421146,26.987146,4326,,,,,2012-04-15,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0004,Utö,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Rural,no,37,37,320,59.780606,21.362656,4326,,,,,2012-04-15,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0005,Örö,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Rural,no,16,16,100,59.813067,22.317283,4326,,,,,2016-05-30,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0006,Björkö,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Rural,no,10,10,100,59.905666,21.690808,4326,,,,,2012-04-15,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0007,Jussarö,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Rural,no,10,10,100,59.825622,23.558335,4326,,,,,2014-04-23,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0008,Rauma outer,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Rural,no,20,20,100,61.179349,21.337803,4326,,,,,2017-08-18,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0009,Rauma inner,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Rural,no,20,20,100,61.178057,21.346933,4326,,,,,2017-08-18,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0010,Helsinki Pihlajasaari,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Urban,no,10,10,100,60.138791,24.9117,4326,,,,,2012-04-15,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0011,Kaarina,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Urban,no,10,10,110,60.39565,22.378355,4326,,,,,2012-04-15,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0012,Kalajoki,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Urban,no,19,19,326,64.238067,23.813283,4326,,,,,2015-04-28,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0013,Kokkola,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Urban,no,10,10,118,63.865717,23.102317,4326,,,,,2015-04-27,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FI0014,Turku Ruissalo,FI,,2018-04-13,Sanna Suikkanen,+358-295251660,sanna.suikkanen@ymparisto.fi,SYKE,Urban,no,20,20,100,60.426298,22.182527,4326,,,,,2012-04-15,,,,,,,,,,,,,,,,,,,,"No low or high tide, but occasional changes in water level"
+FO002,Suggan Streymoy Island (FO),FO,,,,,,,,no,20,,,61.95272,-6.79882,4326,,,,,,,,,,,,,,,,,,,,,,,,,"The beach is located in the Faroe Islands. The code was changed from DK002 to FO002 by Ryan Metcalfe in 2016. Based on information from Sveiney Sverrisdottir, were we able to determine the location of the beach and enter approximate coordinates also in 2016."
+FR001,Trunvel,FR,,,,,,,,no,500,30,12000,47.88819,-4.34641,4326,Dunes,,no,,,N,N;W,SW,Sand,flat < 20%,WW2 bunkers in the middle of the beach (erosion),,no,Board sports,no,Coastal walking,no,Pedestrian,yes,,Other,summer,Manual,SIVU Audierne (inter-municipalities agents coordinated by Natural reserve agent / at the request of the municipalities),one of the 3 first French OSPAR beaches. Stopped end 2006.
+FR002,Le Stang,FR,,,,,,,,no,400,10,13000,47.86311,-4.35241,4326,Dunes,,no,,,N;W,N;W,SW,MixedSediment,Flat at low tide;upper part with slope <20%,Blockhaus (WW2) on the beach in the south,,yes,Board sports,no,,no,Pedestrian,yes,,Other,4 times/ year,Manual,SIVU d'Audierne (syndicate of communes) agents - also in charge of the OSPAR survey,
+FR003,La Torche,FR,,,,,,,,no,400,50,12000,47.83936,-4.34641,4326,Dunes,,yes,car parks,,N,W,SW,MixedSediment,"low, slope <20%",no structure but rocky head in the south (curve),Board sports,no,,yes,Coastal walking,no,Pedestrian,yes,,Other,weekly during summer,Manual,Sivu d'Audierne (inter-municipalities syndicate),Survey stopped in 2006. one of the 3 first French Osapr sites.
+FR004,Le Havre,FR,,,,,,,,no,80,15,1800,49.53897,0.07657,4326,Cliffs,,no,,,S,N;W,NW,MixedSediment,exposed pebble beach - 30%,,Coastal walking,no,,,,,Pedestrian,yes,,Other,irregular 4 times/ year,Manual,A local social re-insertion NGO: Aquacaux (at the request of communes) also in charge of the OSPAR survey,
+FR005,Dieppe,FR,,,,,,,,no,175,20,2000,49.93358,1.08335,4326,,,yes,Large Sea front (lawns + promenade); residential + hotels restaurants,,N;W,N;W,NW,,From 10 to 40 %,pier in the Northern part,Amusements,yes,,yes,,,Pedestrian,yes,,Other,"daily (summer), weekly (others seasons)",Manual,a local social re-insertion NGO: Estran - also in charge of the OSPAR surveys,
+FR006,Sein,FR,,,,,,,,no,450,10,500,48.038064,-4.854878,4326,Dunes,,no,,,W,S;W,SW,,upper part with slope>20%,submerged rocks around,Coastal walking,yes,,no,,,Pedestrian,yes,,Other,4 times/ year,Manual,"Natural marine Prak of Iroise - PNMI (Parc naturel marin d'Iroise) agents, also in charge of the OSPAR survey","On Sein island: a small low island, 8 km off mainland.  Tourism during summer mainly on daily basis (low accommodation capacity): walk along the shoreline, diving, fishing.  A very small area for camp."
+FR007,Koubou,FR,,,,,,,,no,250,10,470,48.231603,-4.564983,4326,Cliffs,,no,,,S;W,S;W,SW,,upper part with slope>30%,no,Coastal walking,no,,no,Building sand castles,no,Boat;Pedestrian,,,Other,4 times/ year,Manual,"Manual and selective recovery by agents from the Natural Marine Parc of Iroise (PNMI), i.e. the same as those who carry out the OSPAR ML survey.",
+FR008,Kerizella,FR,,,,,,,,no,200,10,500,48.496003,-4.777275,4326,Cliffs,,no,,,N;S,N;W,W,,,,,,,,,,,yes,,Other,4 times/ year,Manual,"Natural Marin Park of Iroise agents (PNMI) , also in charge of the OSPAR Survey",
+FR009,Blancs Sablons,FR,,,,,,,,no,275,20,1300,48.372264,-4.761011,4326,Dunes,,,a few houses behind the dune/cliff (= natural protected area)+ a camp site +  1seasonal bar-restaurant,,W,W,W,MixedSediment,Flat on lower part and slope in the upper part,headlands on each part of the beach,Board sports,no,,yes,Coastal walking,no,Boat;Pedestrian,yes,,Monthly,,Manual,"Local environment/citizen NGO: Ar Viltansou, also in charge of the OSPAR Survey",
+FR010,Porsmilin,FR,,,,,,,,no,75,5,300,48.355811,-4.678908,4326,,,yes,parking behind the dune,,E,S;W,SW,MixedSediment,Low (higher in the upper part),,Board sports,no,,yes,Coastal walking,no,Boat;Pedestrian;Vehicle,yes,,Other,irregular (weekly in Summer),Manual,"commune agents, + surfRider NGO (during OSPAR survey)",
+FR011,Larmor Plougastel,FR,,,,,,,,no,120,10,1000,48.335481,-4.448097,4326,Cliffs,,yes,"Fields, a few house, some caravans",,W,W,W,MixedSediment,low,pier at West end (no impact on litter drift),Coastal walking,no,Building sand castles,no,,no,Boat;Pedestrian,yes,,Other,irregular (weekly in Summer),Manual,"AGSEL (Association pour la Gestion du Service Espaces et Littoral), a cooperative at the request of the commune of Plougastel - also in charge of the OSPAR survey.",
+FR012,Trielen,FR,,,,,,,,no,40,10,1000,48.374644,-4.93625,4326,Dunes,,no,,,N;W,N;W,W,,Medium (<20% in upper part),submerged rocks around,,yes,,yes,,,Boat,yes,,Other,,Manual,Reserve Naturelle de Trielen (NGO) = also in charge of the OSPAR survey,
+FR013,Betahon,FR,,,,,,,,no,10,100,1800,47.518464,-2.500758,4326,Dunes,,yes,"Not immediately but behind in the NW, as well as a small harbour facing the beach in the south",,N;W,S;W,SW,Sand,flat slope <20% in the upper part),no,,yes,Board sports,no,Coastal walking,no,Pedestrian,yes,,Other,weekly during summer,Manual;Mechanical,Beach cleaning regular: municipality Ospar survey (with pick-up of observed litter): Surfrider NGO,open in 2013 - stopped in 2014 (NGO leader leaving)
+FR015,Dunes St Frieux,FR,,,,,,,,no,400,5,4800,50.60505,1.578133,4326,Dunes,,no,,,N;S,W,,Sand,slope 10%,blockhaus on the beach (in the north),Coastal walking,no,,yes,Hunting,yes,Pedestrian;Vehicle,no,,Other,,Manual,NGOs 2 or 4 times per year (Rivages Propres: 1: nature libre: 3) in the north and south part of the section,usage 3: hunting seasonal monitoring : SeaMer / Jonathan HENICHART henichart.jonathan@gmail.com
+FR016,Boucaniers,FR,,,,,,,,no,300,30,1600,50.763117,1.604767,4326,Cliffs,,yes,Few residential houses and a biology university at a distance of 130 meters without access to the beach,,N;S,W,W,MixedSediment,,pier in the north end,Amusements,no,Building sand castles,no,Coastal walking,no,Pedestrian;Vehicle,,,,,,,surveyed by SeaMer NGO
+FR017,La Barre,FR,,,,,,,,no,,,,43.528567,-1.523492,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+FR019,La Grandville,FR,,,,,,,,no,,,,48.523522,-2.639792,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+FR020,Le Valais,FR,,,,,,,,no,,,,48.524114,-2.716433,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+FR021,Merville Franceville,FR,,,,,,,,no,,,,49.286564,-0.213864,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+FR051,Le Golo,FR,,2013-07-03,Céline Labbé,,umarinu@wanadoo.fr,Cedre,,no,50,50,,,,4326,Other,Remote natural; low plat coastline; laguna,,,,N,E,E,Sand,low,,Local people (remote),,Sunbathing,,Swimming,,Pedestrian;Vehicle,,,Other,Irregular,,,
+FR052,Fourat,FR,,2015-10-06,Marc Dumontier,,marc.dumontier@afbiodiversite.fr,Parc naturel marin du golfe du Lion - AFB,,no,,,180,,,4326,Other,wall,,,,,NW,NE,,,,bathing,yes,,,,,,yes,,Other,twice a year,Manual,,
+FR053,La Crouste,FR,,2015-10-06,Marc Dumontier,,marc.dumontier@afbiodiversite.fr,Parc naturel marin du golfe du Lion - AFB,,no,,,950,,,4326,Bush,,,,,,NW,E,,,,bathing,yes,,,,,,yes,,Other,Twice a year,Mechanical,,
+FR054,Napoleon,FR,,2017-01-11,Isabelle Poitou,,isabelle.poitou@mer-terre.org,MerTerre,,no,20,30,,,,4326,,,,,,N,NW,SE,Sand,low slope,,Tourist,yes,Nautic activity,yes,hunting and fishing,yes,Pedestrian,,,,,,,
+FR055,Pomegues,FR,,2017-01-10,Isabelle Poitou,,isabelle.poitou@mer-terre.org,MerTerre,,no,8,8,,,,4326,,,,,,E,NW,E,RockAndBoulders,Low slope,Rocks (it is an island),fish farming,yes,yachting,yes,,,Pedestrian,,,,,,,
+FR056,Petite Afrique,FR,,2017-01-13,Isabelle Poitou,,isabelle.poitou@mer-terre.org,MerTerre,,no,10,32,100,,,4326,,,,,,,NE,SE,Sand,Low slope,,Tourist,yes,,,,,,yes,,Other,Spring; summer; automn,,,
+GE0001,Ureki,GE,,2018-03-01,Nino Machitadze,995-577-44-53-12,ninomachitadze@gamma.ge,TSU_GAMMA,Urban,yes,62,48,2500,41.99,41.76,4326,Dunes,,yes,"Yes, walking trail, planted, developed",2015-10-21,W,NW,W,Sand,0,,Coastal walking,yes,Wildlife watching,no,,,Pedestrian;Vehicle,yes,5;6;7;8;9;10,Other,4 times/year,Manual,Local Cleaning Service,
+GE0002,Kobuleti NP,GE,,2018-03-02,Nino Machitadze,995-577-44-53-12,ninomachitadze@gamma.ge,TSU_GAMMA,Periurban,yes,75,65,3600,41.89,41.77,4326,Dunes,,yes,Car parking place,2015-10-23,W,NW,SE,CoarseSediment,0,no,Coastal walking,yes,Wildlife watching,no,,,Pedestrian;Vehicle,no,,Other,4 times/year,Manual,Local Cleaning Service,
+GE0003,Sarpi,GE,,2018-03-02,Nino Machitadze,995-577-44-53-12,ninomachitadze@gamma.ge,TSU_GAMMA,Urban,yes,70,65,800,41.52,41.55,4326,Dunes,,yes,the international East-West highway E60,2016-10-18,W,NW,NW,MixedSediment,0,no,Coastal walking,yes,Wildlife watching,no,,,Pedestrian;Vehicle,yes,5;6;7;8;9,Other,4 times/year,Manual,Local Cleaning Service,
+GRL001,Dagmar Island North St1,DK,,,,,,,,no,,,200,81.686417,-17.563722,4326,,,,,,,,,,,,,,,,,,,,,,,,,Surveyed beach length is 200m. Reported data in the OSPAR database is recalculated to represent 100m survey.
+GRL002,Henryland - East Greenland,DK,,,,,,,,no,28,7,100,69.607917,-23.639967,4326,,,no,,,S,N;S,W,CoarseSediment,,,,,,,,,,,,,,,,
+GRL003,"Sand Island, Young Sund",DK,,,,,,,,no,,,100,74.265333,-20.15255,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+GRL004,"Kap Mary, Young Sund",DK,,,,,,,,no,,,100,74.165567,-20.18835,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+GRL005,"Clavering Island, Young Sund",DK,,,,,,,,no,,,100,74.218056,-20.171444,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+GRL006,Stroem Island,DK,,,,,,,,no,,,100,68.085867,-30.6166,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+GRL007,"Moraene Island, Taasiilaq",DK,,,,,,,,no,,,100,66.020817,-35.788683,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+GRL008,Nuuk Fjord St1,DK,,,,,,,,no,,,100,64.025717,-51.749117,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+GRL009,Nuuk Fjord St2,DK,,,,,,,,no,,,115,64.061389,-51.730278,4326,,,,,,,,,,,,,,,,,,,,,,,,,Surveyed beach lenght is 115 m. Reported data in the OSPAR database is recalculated to represent 100 m.
+GRL010,Nuuk Fjord St3,DK,,,,,,,,no,,,90,64.071944,-51.761389,4326,,,,,,,,,,,,,,,,,,,,,,,,,Surveyed beach lenght is 90 m. Reported data in the OSPAR database is recalculated to represent 100 m.
+GRL011,Disko Brededal,DK,,,,,,,,no,,,100,69.317222,-53.185361,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+GRL012,Disko Ippik,DK,,,,,,,,no,,,100,69.301944,-53.241667,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+GRL013,Sisimiut St1,DK,,,,,,,,no,,,58,66.871111,-53.602333,4326,,,,,,,,,,,,,,,,,,,,,,,,,Surveyed beach lenght is 58 m. Reported data in the OSPAR database is recalculated to represent 100 m.
+GRL014,Sisimiut St2,DK,,,,,,,,no,,,40,66.853306,-53.494597,4326,,,,,,,,,,,,,,,,,,,,,,,,,Surveyed beach length is 40m. Reported data in the OSPAR database is recalculated to represent 100m surveys.
+GRL015,Qaqortoq St1 (Asia),DK,,,,,,,,no,,,51,60.675264,-46.13165,4326,,,,,,,,,,,,,,,,,,,,,,,,,SUMAG project. Surveyed beach lenght is 51 m. Reported data in the OSPAR database is recalculated to represent 100 m.
+GRL016,Qaqortoq St2,DK,,,,,,,,no,,,140,60.721525,-46.099047,4326,,,,,,,,,,,,,,,,,,,,,,,,,Surveyed beach lenght is 140 m. Reported data in the OSPAR is recalculated to represent 100 m.
+GWUWH,Ammos,RO,,2015-04-26,Magda Nenciu,+40766734030,magdalena.nenciu@gmail.com,NIMRD Grigore Antipa,Urban,yes,40,50,447,44.270278,28.625833,4326,BuiltupArea,,yes,Restaurant/Hotels/Apartment buildings,2014-12-01,N,NE,E,Sand,slope: 10%,,Sunbathing and swimming,yes,,,,,Pedestrian;Vehicle,yes,,Other,Summer season,Manual;Mechanical,Hotel administrators & Local Water Basin Administration,
+HR_BeMa_NE,Neretva delta – Komin,HR,,2015-11-17,,,,IOF,,yes,23,16,292,,,4326,Bush;Road,,yes,Road,,,SE,SE,Sand,Slope 3%,,Swimming,yes,Sunbathing,yes,Kite surfing,yes,Pedestrian;Vehicle,yes,6;7;8;9,Daily,,Manual,"No one, local kiters clean",
+HR_BeMa_OM,Omiš - Punta beach,HR,,2015-10-23,,,,IOF,,yes,40,38,425,,,4326,BuiltupArea,,yes,"Road, buildings",,SE,SE,S,Sand,Slope 10%,,Swimming,yes,Sunbathing,yes,,yes,Pedestrian;Vehicle,yes,5;6;7;8;9,Daily,,Mechanical,Municipality,
+HR_BeMa_SAP,Island Mljet - Saplunara beach,HR,,2015-11-18,,,,IOF,,yes,23,20,155,,,4326,Forest,,yes,Concrete stairs to the road,,S,SE,SW,Sand,Slope 5%,,Swimming,yes,Sunbathing,yes,,yes,Pedestrian,yes,5;6;7;8;9;10,Weekly,,Manual,"No one responsible, locals clean",
+HR_BeMa_ZAG,Island Vis – Zaglav beach,HR,,2015-11-03,,,,IOF,,yes,12,10,106,,,4326,Crops,,yes,Few private houses,,S,S,E,MixedSediment,Slope 5%,,Swimming,yes,Sunbathing,yes,Anchoring,yes,Boat;Pedestrian,yes,6;7;8;9,Daily,,Manual,Gradina d.o.o. Vis before season but local people clean it every day during season,
+IR001,Long Strand,IE,,,,,,,,no,60,10,1800,51.552293,-8.955067,4326,Dunes,,no,Small number of houses,,E,S;W,SW,,Steep Slope 30%,No,Coastal walking,no,Board sports,no,,,Pedestrian,,,,,,,"A steep beach, well used by walkers, dangerous for swimming"
+IR002,Silver Strand,IE,,,,,,,,no,220,20,500,53.645853,-9.886078,4326,Dunes,,no,,,N;W,S;W,W,,"gentle slope, 5%",Offshore islands,Coastal walking,no,,yes,,,Pedestrian;Vehicle,,,,,,,"A very remote beach, in a rural area with low local population"
+IR003,Carnesore,IE,,,,,,,,no,55,5,650,52.192203,-6.348811,4326,Dunes,,yes,Houses and school,,E;N,S;W,E,,"gentle slope, 5%","Offshore rocks, pier at Northern end of beach",Coastal walking,no,Building sand castles,yes,Building sand castles,yes,Pedestrian,yes,,Other,"monthly all year round, weekly during summer",Manual,Wexford County Council,
+IR004,Clogherhead - South,IE,,,,,,,,no,200,10,850,53.788747,-6.233997,4326,Dunes,,yes,"Town, car park, RNLI - Lifeboat station, caravan parks, houses",,N,S;W,E,,"Very gentle slope, 5%",No,Coastal walking,no,,yes,,,Pedestrian;Vehicle,yes,,Weekly,,Manual,Clogherhead Tidy Towns,A beach located within a town but cleaned all year round.
+IS001,Raudasandur,IS,,,,,,,,no,,60,5000,65.462784,-23.955504,4326,Dunes,,no,,,W,S,S,,< 5 %,No,Naturist,yes,Coastal walking,yes,,,Pedestrian;Vehicle,yes,,Other,summer,Manual,Environment Agency of Iceland with volunteers.,The Raudasandur beach is a Nature Conservation area.
+IS002,Budavik,IS,,,,,,,,no,,115,2000,64.827558,-23.357204,4326,Dunes,,no,,,W,S,S,,< 5 %,,Naturist,no,Coastal walking,yes,,,Pedestrian;Vehicle,yes,,Other,spring/summer,Manual,Environment Agency of Iceland/landowners,Litter was only found at the top 15 m of the beach.
+IS003,Bakkavik,IS,,,,,,,,no,350,,900,64.153908,-22.007208,4326,Cliffs,,no,,,W,S,S,,< 5 %,,Coastal walking,no,Naturist,no,,,Pedestrian;Vehicle,yes,,Other,summer,Manual,Municipality/Environment Agency of Iceland,West of the beach is a golf course.
+IS004,Surtsey island East,IS,,,,,,,,no,10,37,850,63.305833,-20.5962,4326,Cliffs,,no,,,E,E,E,,15-20,,,,,,,,Boat,,,,,,,"Surstey is a volcanic island and the southernmost point of Iceland. It was formed in a volcanic eruption in 1963-1967. It is all the more outstanding for having been protected since its birth, providing the world with a pristine natural laboratory. In 2008, UNESCO declared the island a World Heritage Site, in recognition of its great scientific value. Access to the island is restricted, permit needed from the Environment agency."
+IS005,Surtsey island West,IS,,,,,,,,no,29,25,580,63.308417,-20.600317,4326,Cliffs,,no,,,W,E,W,,20-30 %,,,,,,,,Boat,,,,,Manual,,"Surstey is a volcanic island and the southernmost point of Iceland. It was formed in a volcanic eruption in 1963-1967. It is all the more outstanding for having been protected since its birth, providing the world with a pristine natural laboratory. In 2008, UNESCO declared the island a World Heritage Site, in recognition of its great scientific value. Access to the island is restricted, permit needed from the Environment agency."
+LT0001,Nemirseta,LT,,2013-11-28,,,,,,no,,,,55.87982,21.05899,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+LT0002,Karkle,LT,,2013-11-28,,,,,,no,,,,55.78068,21.07656,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+LT0003,Melnrage/Klaipeda,LT,,2013-11-28,,,,,,no,,,,55.73431,21.09037,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+LT0004,Palanga,LT,,2013-11-28,,,,,,no,,,,55.91975,21.05905,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+LV0001,Papes bāka,LV,,2019-04-03,,,,,Rural,no,30,18,,56.154733,21.022756,4326,,,,,,,,W,CoarseSediment,,,,,,,,,,,,,,,,
+LV0002,Jūrmalciems,LV,,2019-04-03,,,,,Rural,no,47,20,,56.301637,20.983969,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0003,Bernāti,LV,,2019-04-03,,,,,Periurban,no,30,15,,56.377152,20.974916,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0004,Liepāja Karosta,LV,,2019-04-03,,,,,Periurban,no,30,10,,56.56324,21.001714,4326,,,,,,,,W,CoarseSediment,,,,,,,,,,,,,,,,
+LV0005,Ziemupe,LV,,2019-04-03,,,,,Rural,no,27,22,,56.746876,21.059354,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0006,Pāvilosta,LV,,2019-04-03,,,,,Periurban,no,45,25,,56.892764,21.180725,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0007,Jūrkalne,LV,,2019-04-03,,,,,Periurban,no,30,22,,57.032817,21.399155,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0008,Užava,LV,,2019-04-03,,,,,Rural,no,40,18,,57.247212,21.413551,4326,,,,,,,,W,CoarseSediment,,,,,,,,,,,,,,,,
+LV0009,Ventspils centrs,LV,,2019-04-03,,,,,Urban,no,80,60,,57.388743,21.526111,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0010,Staldzene,LV,,2019-04-03,,,,,Periurban,no,25,16,,57.445146,21.603705,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0012,Ovīši,LV,,2019-04-03,,,,,Rural,no,50,30,,57.572435,21.710777,4326,,,,,,,,NW,MixedSediment,,,,,,,,,,,,,,,,
+LV0014,Mazirbe,LV,,2019-04-03,,,,,Rural,no,45,25,,57.690326,22.315486,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0015,Kolka,LV,,2019-04-03,,,,,Periurban,no,19,10,,57.744381,22.59542,4326,,,,,,,,SE,Sand,,,,,,,,,,,,,,,,
+LV0016,Pūrciems,LV,,2019-04-03,,,,,Rural,no,19,10,,57.586294,22.635498,4326,,,,,,,,NE,Sand,,,,,,,,,,,,,,,,
+LV0017,Roja,LV,,2019-04-03,,,,,Urban,no,40,25,,57.51115,22.80031,4326,,,,,,,,NE,Sand,,,,,,,,,,,,,,,,
+LV0018,Kaltene,LV,,2019-04-03,,,,,Periurban,no,20,10,,57.452056,22.897364,4326,,,,,,,,NE,CoarseSediment,,,,,,,,,,,,,,,,
+LV0019,Mērsrags,LV,,2019-04-03,,,,,Periurban,no,30,15,,57.366844,23.119743,4326,,,,,,,,NE,Sand,,,,,,,,,,,,,,,,
+LV0020,Abragciems,LV,,2019-04-03,,,,,Periurban,no,18,8,,57.195373,23.208785,4326,,,,,,,,E,Sand,,,,,,,,,,,,,,,,
+LV0021,Engure,LV,,2019-04-03,,,,,Periurban,no,15,5,,57.161052,23.232795,4326,,,,,,,,E,Sand,,,,,,,,,,,,,,,,
+LV0022,Apšuciems,LV,,2019-04-03,,,,,Periurban,no,40,18,,57.061823,23.31157,4326,,,,,,,,NE,Sand,,,,,,,,,,,,,,,,
+LV0023,Lapmežciems,LV,,2019-04-04,,,,,Periurban,no,20,10,,57.03091,23.493828,4326,,,,,,,,NE,Sand,,,,,,,,,,,,,,,,
+LV0024,Jaunķemeri,LV,,2019-04-03,,,,,Urban,no,45,20,,56.976759,23.559599,4326,,,,,,,,N,Sand,,,,,,,,,,,,,,,,
+LV0025,Lielupes ieteka,LV,,2019-04-03,,,,,Urban,no,60,40,,57.001683,23.911253,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0026,Vakarbuļļi,LV,,2019-04-03,,,,,Urban,no,40,25,,57.019837,23.962437,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0027,Daugavgrīva,LV,,2019-04-03,,,,,Urban,no,65,40,,57.041689,24.002041,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0028,Vecāķi,LV,,2019-04-03,,,,,Urban,no,60,40,,57.082838,24.10841,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0029,Gaujas ieteka,LV,,2019-04-03,,,,,Rural,no,55,20,,57.161678,24.269451,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0030,Lilaste,LV,,2019-04-03,,,,,Periurban,no,60,30,,57.189403,24.328364,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0031,Saulkrasti,LV,,2019-04-03,,,,,Urban,no,40,20,,57.269286,24.411531,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0032,Zvejniekciems,LV,,2019-04-03,,,,,Periurban,no,65,40,,57.319541,24.403629,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0033,Tūja,LV,,2019-04-03,,,,,Periurban,no,55,20,,57.492443,24.381214,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0034,Salacgrīva,LV,,2019-04-03,,,,,Periurban,no,15,10,,57.762058,24.348871,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0035,Kuiviži,LV,,2019-04-03,,,,,Periurban,no,50,30,,57.78862,24.345112,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0036,Robeža,LV,,2019-04-03,,,,,Rural,yes,30,20,,56.069193,21.064755,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0037,Lauču akmens,LV,,2019-04-03,,,,,Rural,no,25,20,,57.367788,24.401123,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0038,Veczemju klintis,LV,,2019-04-03,,,,,Rural,no,25,10,,57.582296,24.367146,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+LV0039,Liepāja centrs,LV,,2019-04-03,,,,,Urban,no,70,40,,56.483502,20.996875,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0040,Miķeļtornis,LV,,2019-04-03,,,,,Rural,no,35,25,,57.600822,21.966622,4326,,,,,,,,N,Sand,,,,,,,,,,,,,,,,
+LV0041,Majori,LV,,2019-04-03,,,,,Urban,no,65,50,,56.977509,23.799994,4326,,,,,,,,N,Sand,,,,,,,,,,,,,,,,
+LV0042,Skede,LV,,2019-02-14,,,,,Rural,no,30,20,,56.624786,21.033649,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,
+LV0043,Klapkalnciems,LV,,2019-02-14,,,,,Periurban,no,40,25,,57.045372,23.366549,4326,,,,,,,,N,Sand,,,,,,,,,,,,,,,,
+LV0044,Lielupe/Riga side,LV,,2019-02-14,,,,,Periurban,no,70,40,,57.011174,23.937591,4326,,,,,,,,NW,Sand,,,,,,,,,,,,,,,,
+ME0001,Kamenovo,ME,,2015-12-27,Milica Divanović,,m.i.l.i.c.a.90@hotmail.com,Institute of Marine Biology - University of Montenegro,,yes,,,330,,,4326,Other,Built-up area and forest,yes,"Restaurants and bars, temporary",2014-10-14,SE,SW,SE,MixedSediment,slope 15%,"2 capes, reef",Swimming and sunbathing,yes,,,,,Pedestrian;Vehicle,yes,5;6;7;8;9;10,Daily,,Manual,JKP Budva (public communal company Budva),
+ME0002,Igalo,ME,,2015-12-27,Milica Divanović,,m.i.l.i.c.a.90@hotmail.com,Institute of Marine Biology - University of Montenegro,,yes,,,82,,,4326,BuiltupArea,,yes,"Road, shops, bars",2014-10-27,SE,,S,Sand,slope 10%,pier,Swimming and sunbathing,yes,,,,,Boat;Pedestrian;Vehicle,yes,5;6;7;8;9;10,Daily,,Manual,,
+MEWTM,Vama Veche,RO,,2015-04-25,Magda Nenciu,+40766734030,magdalena.nenciu@gmail.com,NIMRD Grigore Antipa,Rural,yes,5,10,2511,43.770833,28.590556,4326,Cliffs,,no,N/A,2015-04-25,N,NE,E,MixedSediment;RockAndBoulders,slope: 30%,,Sunbathing and swimming,yes,,,,,Pedestrian,no,,Other,Occasionally,Manual,Local Water Basin Administration,
+NL001,Bergen,NL,,,,,,,,no,65,55,4000,52.642725,4.62425,4326,Dunes,,no,,,N,S;W,W,Sand,"Flat, exposed 2% slope",no,Coastal walking,no,,yes,,,Pedestrian,,,,,,,Cleaning details: every two weeks Water discharge on beach till 2015
+NL002,Noordwijk,NL,,,,,,,,no,40,50,15000,52.321814,4.489397,4326,Dunes,,no,,,E;N,S;W,NW,Sand,"Flat, exposed 2% slope",no,Coastal walking,no,,yes,,,Pedestrian,yes,,Other,,,Local municipality,Cleaning details: 100m is not cleaned (only during survey). Only in summer bins are placed on beach (since 2012). The beach around is cleaned mechannically when considered littered.
+NL003,Veere,NL,,,,,,,,no,65,75,10000,51.588564,3.556875,4326,Dunes,,no,,,E;N,S;W,NW,Sand,"irregular sand hopes, 5% slope, exposed to open sea, 1% vegetation (grass)","Yes, dam in sea",Coastal walking,no,,yes,,,Pedestrian,yes,,Other,,Manual;Mechanical,Local municipality,Beach is cleaned incidentally (maybe 2 ir 3 times a year)
+NL004,Terschelling,NL,,,,,,,,no,120,115,20000,53.426058,5.393528,4326,Dunes,,no,,,E;N,S;W,NW,Sand,5% slope,no,Coastal walking,no,,yes,,,Pedestrian,yes,,Other,,Manual;Mechanical,Municipality,"Cleaned incidentally when dirty. Beachcombers remove large objects on a regular (almost daily) basis, reference beach excepted."
+NO001,Været,NO,,,,,,,,no,40,36,100,63.81375,9.488306,4326,Dunes,,no,,1970-01-01,S;W,W,E,,Slope 10-20%,,,,,,,,Boat,yes,,Other,Once a year (OSPAR registration),Manual,Norwegian Nature Inspectorate (Statens naturoppsyn - SNO),"Back of Beach: Graslands (not an option in pulldown list) Major Beach usage: Protected area - Whole year (not an option in pulldown list), Grazing - seasonal (not an option in pulldown list)"
+NO002,Brucebukta,NO,,,,,,,,no,63,56,,78.444785,11.860241,4326,,,no,,1970-01-01,,N,N,,Slope 6 degrees,No,,,,,,,Boat,yes,,Other,,Manual,Cleaned once a year by the Governor of Svalbard as part of the OSPAR Beach litter registration,"The beach is visited by cruice tourists in the summer (average: 719 a year), and by local inhabitants on boat trips."
+NO003,Luftskipodden,NO,,,,,,,,no,87,75,1200,79.681214,10.766962,4326,,,no,,1970-01-01,S,W,W,,"Lower 15m: 15 degree slope, 75m from back of beach: flat",No,,,,,,,Boat,yes,,Other,,Manual,Cleaned once a year by the Governor of Svalbard as part of the OSPAR Beach litter registration,
+NO004,Rekvika,NO,,,,,,,,no,20,7,1000,69.807672,18.733219,4326,,,no,,1970-01-01,S;W,W,W,,"Flat, slope 10 %, mainly boulders 10-50 cm",No,Coastal walking,yes,Amusements,yes,,,Boat;Pedestrian,yes,4;5;9,Other,,Manual,"Cleaned in conjunction with OSPAR registration. Beach coordinator responsible, togehther with highschool pupils and students.","The beach obviously collects more than its fair share, due to the wind, currents and location. The northern 100 m is the most littered part. There are more beaches with the same quantities in the area."
+NO005,Kviljo,NO,,,,,,,,no,65,63,5000,58.06947,6.680341,4326,Dunes,,no,,1970-01-01,S,S,S,,Flat 100%,No,Coastal walking,no,,yes,Board sports,no,Pedestrian,,,,,,,"The width of the beach, and the amount of litter the beach collects, varies from year to year, as an effect of strong winds and currents."
+NO006,Sandfjordneset,NO,,,,,,,,no,200,50,1050,70.50409,30.58819,4326,Dunes,,yes,20 cabins,,S,,E,,Slope 7%,No,,,,,,,Pedestrian,yes,6;9,Other,,Manual,Statens Naturoppsyn (SNO),
+NO007,Ytre Hvaler,NO,,,,,,,,no,40,4,2000,59.0457,10.882823,4326,Dunes,,no,,1970-01-01,,S;W,SW,,"Rocks 50 %, mix of both flat and rocky areas",,,yes,,,,,Boat,yes,3;4;10;11,Other,,Manual,"Oslofjordens Friluftsråd in cooperation with SNO, Skjærgårdstjenesten and the national park manager.","There are two more shipping lanes near the Beach: LÃ¸pern to Borg harbour: 5 km away, 1.500 ships Halden harbour: 10-12 km away, 360 ships"
+NPMS_RU_01_BR,NPMS RU 01 BR,RU,,2016-07-30,Maria Pogojeva,+79099458040,pogojeva_maria@mail.ru,State Oceanographic Institute (SOI),,no,,,,45.19953,36.60014,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+PL0001,Choczewo,PL,,2016-12-27,,,,,Rural,no,,,,54.811661,17.83595,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+PL0002,Darlowo,PL,,2017-01-14,,,,,Urban,no,,,,54.390872,16.323703,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+PL0003,Dziwnow,PL,,2017-01-10,,,,,Rural,no,,,,54.022975,14.732897,4326,,,,,,,,,,,,,,,,,,,,,,,,,urban coast close to river
+PL0004,Gdansk,PL,,2017-01-07,,,,,Urban,no,,,,54.353339,18.841364,4326,,,,,,,,,,,,,,,,,,,,,,,,,urban coast close to river
+PL0005,Gdynia,PL,,2017-01-07,,,,,Rural,no,,,,54.572678,18.547444,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+PL0006,Hel (I),PL,,2017-01-08,,,,,Urban,no,,,,54.676517,18.736575,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+PL0007,Hel (II),PL,,2017-01-07,,,,,Urban,no,,,,54.621994,18.777583,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+PL0008,Kolobrzeg/ Ustronie Morskie,PL,,2017-01-10,,,,,Urban,no,,,,54.200267,15.672447,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+PL0009,Krynica Morska,PL,,2016-12-17,,,,,Rural,no,,,,54.4403,19.604394,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+PL0010,Mielno,PL,,2016-12-21,,,,,Rural,no,,,,54.262661,16.053686,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+PL0011,Smoldzino,PL,,2016-12-17,,,,,Urban,no,,,,54.758919,17.491594,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+PL0012,Stegna,PL,,2016-12-17,,,,,Rural,no,,,,54.343358,18.991614,4326,,,,,,,,,,,,,,,,,,,,,,,,,rural coast close to river
+PL0013,Swinoujscie,PL,,2017-01-10,,,,,Urban,no,,,,53.921917,14.264417,4326,,,,,,,,,,,,,,,,,,,,,,,,,urban coast close to river
+PL0014,Trzebiatow (Mrzezyno),PL,,2017-01-10,,,,,Urban,no,,,,54.146778,15.286361,4326,,,,,,,,,,,,,,,,,,,,,,,,,urban coast close to river
+PL0015,Ustka,PL,,2016-12-22,,,,,Rural,no,,,,54.605531,16.932167,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+PT001,Praia da Barra,PT,,,,,,,,no,100,,,40.640242,-8.748739,4326,,,,,,S,,W,Sand,"Flat, exposed",,,,,,,,,,,,,,,Cleaning details: cleaned weekly durin high season (july-september?)
+PT002,Praia du Duquesa,PT,,,,,,,,no,40,,,,,4326,,,,,,S,,W,Sand,"Flat, exposed",,,,,,,,,,,,,,,Cleaning details: cleaned weekly durin high season (july-september?)
+PT003,Praia de Carcavelos,PT,,,,,,,,no,50,,,,,4326,,,,,,S,,W,Sand,"Flat, exposed",,,,,,,,,,,,,,,Cleaning details: cleaned weekly durin high season (july-september?)
+PT004,Ilha de Faro,PT,,,,,,,,no,35,31,5000,37.002989,-7.9881,4326,Dunes,,yes,"Economic activities and leisure. Faro, the capital of the district is next to the beach",,S;W,E;S,S,Sand,"Flat, gently sloping+steep, exposed",No,Board sports,no,Building sand castles,no,,yes,Boat;Pedestrian;Vehicle,yes,4;5;6;7;8;9,Daily,,Mechanical,Municipality of Faro,
+PT005,Batata,PT,,,,,,,,no,100,,,37.097253,-8.667991,4326,,,yes,City of Lagos,,E,,S,Sand,Slope 7%,A pier,Building sand castles,no,Board sports,no,,yes,Boat;Pedestrian;Vehicle,yes,4;5;6;7;8;9,Daily,,Manual;Mechanical,Municipality of Lagos,
+PT006,Manta Rota,PT,,,,,,,,no,50,,,,,4326,Dunes,,,,,E,,S,Sand,"Flat, exposed",,,,,,,,,,,,,,,Cleaning details: cleaned weekly durin high season (july-september?)
+PT007,Cabedelo,PT,,,,,,,,no,50,,1200,41.673639,-8.826964,4326,Other,"Vegetation, dunes",yes,small development in growth,,S,N,W,Sand,"Flat, exposed","Yes, a pier",,yes,Board sports,no,Coastal walking,no,Pedestrian;Vehicle,yes,6;7;8;9,Daily,,Manual;Mechanical,Parish council of Vila Nova de Anha,Cleaning details: cleaned weekly durin high season (july-september?)
+PT008,Osso da Baleia,PT,,,,,,,,no,110,35,,39.997856,-8.916519,4326,Dunes,,no,,,N,N,W,Sand,slope 5%,,,yes,Building sand castles,no,Board sports,yes,Pedestrian;Vehicle,yes,6;7;8;9,Daily,,Manual,Municipality of Pombal,
+PT009,Amoeiras,PT,,,,,,,,no,40,,350,39.125111,-9.390356,4326,Cliffs,,,,,,,,,,,,,,,,,,,,,,,,
+PT010,Fonte da Telha,PT,,,,,,,,no,110,,7000,38.564586,-9.192556,4326,Dunes,,,,,,,,Sand,,,,,,,,,,,,,,,,
+PT011,Monte Velho,PT,,,,,,,,no,100,50,,38.081642,-8.811011,4326,Dunes,,yes,"Industrial area of Sines, refinery, petrochemical and other manufactured industries",,S,N;W,W,Sand,"Winter slope 15%, summer slope 3-4%",No,Building sand castles,no,Coastal walking,no,,yes,Pedestrian;Vehicle,yes,6;7;8;9,Daily,,Manual;Mechanical,Municipality of Santiago do Cacem,"Wide beach located in a protected area of importance for birds and wild life, nesting area near Lake Santo AndrÃ© bordered by a cord donar well maintained"
+PT012,Barranha,PT,,,,,,,,no,80,40,1200,41.454758,-8.779014,4326,Dunes,,yes,"Golf course, campsite",,N,N,W,Sand,Slope 20%,rocky outcrops,,yes,Building sand castles,no,Board sports,yes,Pedestrian;Vehicle,yes,5;6;7;8;9,Daily,,Manual;Mechanical,"Parish council, city council, dealer on the beach",Frequent winds from northnormally during summer (offshore winds)
+PT013,Porto Pim,PT,,,,,,,,no,30,25,350,38.524739,-28.625733,4326,Dunes,,no,,,,W,W,Sand,0 - 3%,No,,yes,Coastal walking,no,Scuba diving,no,Pedestrian;Vehicle,yes,,Daily,,Manual;Mechanical,Parque Natural da Ilha do Faial,MPA since 80th High natural and cultural inheritance
+RU0002,Vostok,RU,,,,,,,,no,,,100,,,4326,,,,,,,,,Sand,,,,,,,,,,,,,,,,The width of the beach is 100x30m
+RU0003,Sochi,RU,,,,,,,,no,,,100,,,4326,,,,,,,,,CoarseSediment,,,,,,,,,,,,,,,,The width of the beach is 100x100m
+RU0004,Anapa,RU,,2016-07-30,Vladimir,+79180300076,poekperementarium@gmail.com,Marine Conservation Society,,no,,,,44.873038,37.315189,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+SE001,Älgön,SE,,,,,,,,no,100,,,57.92139,11.68528,4326,,,,,,,S;W,W,Sand,"Flat, exposed",,,,,,,,,,,,,,,Cleaning details: Once in april/may (all objects removed at survey)
+SE002,Mollön,SE,,,,,,,,no,50,,,58.0614,11.45528,4326,,,,,,N,S;W,SW,MixedSediment,"Gently sloping, exposed",,,,,,,,,,,,,,,Cleaning details: Once in april/may  until 2005(all objects removed at survey)
+SE003,Gåsö,SE,,,,,,,,no,20,,,58.24126,11.38194,4326,,,,,,N,S;W,W,Sand,"Flat, exposed",,,,,,,,,,,,,,,Cleaning details: Once in april/may  until 2005(all objects removed at survey)
+SE004,Haby,SE,,,,,,,,no,100,,,58.405792,11.242547,4326,,,,,,N,S;W,W,MixedSediment,"Flat, exposed",,,,,,,,,,,,,,,Cleaning details: Once in april/may  until 2005(all objects removed at survey)
+SE005,Edsvik,SE,,,,,,,,no,150,,,58.714478,11.231689,4326,,,,,,N,S;W,SW,Sand,"Flat, exposed",,,,,,,,,,,,,,,Cleaning details: Once in april/may (all objects removed at survey)
+SE006,Saltö,SE,,,,,,,,no,200,,,58.871628,11.119364,4326,,,,,,N,S;W,SW,CoarseSediment,"Gently sloping, exposed",,,,,,,,,,,,,,,Cleaning details: Once in april/may (all objects removed at survey)
+SE007,Grönevik,SE,,,,,,,,no,10,,,57.792656,11.730217,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+SE008,Edshultshall,SE,,,,,,,,no,8,,,58.105053,11.472458,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+SE009,Gröderhamn,SE,,,,,,,,no,10,,,58.240153,11.428653,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UA0001,Chornomorka,UA,,,,,,,,no,,,,46.346868,30.701602,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UALMY,Flora,RO,,2015-01-11,Magda Nenciu,+40766734030,magdalena.nenciu@gmail.com,NIMRD Grigore Antipa,Urban,yes,40,50,194,44.223611,28.6225,4326,BuiltupArea,,yes,Hotel,2015-01-11,N,NE,E,Sand,slope: 10%,Breakwater dams,Sunbathing and swimming,yes,,,,,Pedestrian;Vehicle,yes,,Other,Summer season,Manual;Mechanical,Hotel administrators & Local Water Basin Administration,
+UK001,Hilbre Island,GB,,,,,,,,no,25,,,53.382286,-3.225411,4326,Cliffs,,yes,holiday bungalows,,E,S;W,,MixedSediment,"Gently sloping, exposed 10%",no,,no,Coastal walking,no,,,Pedestrian,,,Other,during surveys,Manual,Frank Tyson,Cleaning details: during surveys
+UK002,Tan-y-Bwlch Beach,GB,,,,,,,,no,75,25,100,52.403653,-4.089061,4326,,,no,,,N,S;W,W,MixedSediment,Steep exposed,no,,,Building sand castles,no,,,Pedestrian,no,,Other,every 6 weeks,Manual,,"Cleaning details: 4 times, jan, apr,july sept"
+UK003,Traeth Mawr Beach,GB,,,,,,,,no,,,,52.02829,-4.83699,4326,,,,,,,,W,Sand,,,,,,,,,,,,,,,,Cleaning details: ?
+UK004,West Angle Bay,GB,,,,,,,,no,,,,51.68684,-5.1079,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK005,Freshwater East,GB,,,,,,,,no,60,,,51.64642,-4.85789,4326,,,,,,S;W,S;W,SE,MixedSediment,"Gently sloping, exposed",,,,,,,,,yes,,Other,Monthly in summer,,,Cleaning details: Monthly in summer
+UK006,Burnham-on-Sea,GB,,,,,,,,no,,,,51.24442,-2.98354,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK007,Hastings Beach,GB,,,,,,,,no,,,,50.85234,0.57884,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK008,Margate Main Beach,GB,,,,,,,,no,90,,,51.46904,1.36061,4326,,,,,,S;W,E;N,NE,Sand,"Gently sloping, exposed",,,,,,,,,,,Other,Daily in summer,,,Cleaning details: Daily in summer
+UK009,Heacham Beach,GB,,,,,,,,no,,,,52.90279,0.46101,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK010,Staithes Beach,GB,,,,,,,,no,,,,54.55823,-0.78753,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK011,Cramond Beach,GB,,,,,,,,no,30,,,55.979183,-3.298214,4326,,,,,,E;W,S;W,N,Sand,"Gently sloping, exposed",,,,,,,,,,,Other,,,,"Cleaning details: 2 weeks in summer, once in autumn, once in spring"
+UK012,Menie Links - Balmedie,GB,,,,,,,,no,175,,,57.27894,-2.01161,4326,,,,,,E;N,E;S,SE,Sand,"Gently sloping, exposed",,,,,,,,,,,,,,,Cleaning details: Weekly
+UK013,Porth Kidney Sands (Lelant Beach),GB,,,,,,,,no,625,,,50.19021,-5.44686,4326,,,,,,N,S;W,N,MixedSediment,"Flat, exposed",,,,,,,,,,,Other,"Daily in summer, once per season",,,"Cleaning details: Daily in summer, otherwisw once per season"
+UK014,Allonby,GB,,,,,,,,no,800,,,54.77779,-3.42273,4326,,,,,,E;S,S;W,N,MixedSediment,"Gently sloping, not exposed",,,,,,,,,,,Other,Weekly in summer,,,Cleaning details: Weekly in summer (more seldom since summer 2005)
+UK015,St Marys Beach,GB,,,,,,,,no,80,,,50.38457,-3.50242,4326,,,,,,E,E,E,MixedSediment,"Flat, not exposed",,,,,,,,,,,Other,4 times per year (items removed during survey),,,Cleaning details: 4 times per year (but items removed during survey)
+UK016,Chilton Chine,GB,,,,,,,,no,30,,,50.63657,-1.42158,4326,,,,,,,S;W,SW,MixedSediment,"Gently sloping, exposed",,,,,,,,,,,,,,,Cleaning details: Not cleaned
+UK017,Rocquaine Bay,GB,,,,,,,,no,500,,,49.4445,-2.6336,4326,,,,,,S;W,S;W,W,Sand,Steep exposed,,,,,,,,,,,,,,,Cleaning details: No (but items removed during survey)
+UK018,Linkim Shore,GB,,,,,,,,no,50,,,55.88826,-2.1231,4326,,,,,,N;W,S;W,NE,CoarseSediment,"Gently sloping, exposed",,,,,,,,,,,Other,Four times er year,,,Cleaning details: Four times per year
+UK019,Upgang Beach,GB,,,,,,,,no,120,,,54.49552,-0.63806,4326,,,,,,E;W,S;W,N,Sand,"Gently sloping, exposed",,,,,,,,,,,Other,Not regularly,,,Cleaning details: Not regularly
+UK020,Sand Bay,GB,,,,,,,,no,,,6600,51.340033,-2.983242,4326,Dunes,,yes,shops and houses,,S;W,S;W,SW,MixedSediment,"Gently sloping, not exposed,  slope about1%",no,,no,Building sand castles,yes,,,Pedestrian;Vehicle,no,,Weekly,,Manual,local warden/MCS,"Cleaning details: two weeks in summer, other season monthly"
+UK021,Langland Bay,GB,,,,,,,,no,130,,400,51.565969,-4.010025,4326,,,yes,"carparks, tennis courts, houses, café, golf course",,E;W,S;W,S,MixedSediment,slope 20%,no,,no,,,,,Pedestrian,yes,,Other,daily during summer,Manual,Swansea City Council,
+UK025,Ardglass,GB,,,,,,,,no,248,11,1075,54.265599,-5.60686,4326,,,yes,Fishing port and village,,,E;S,SE,MixedSediment,,"A harbour, rocky outcrops, narrow channel",Coastal walking,yes,,no,,no,Boat;Pedestrian,yes,,Other,,Manual,There is no official beach cleaning at the site. Keep Northern Ireland Beautiful and local community groups carry out clean ups within 2 weeks after marine litter surveys have been carried out on a quarterly basis.,
+UK026,Ballyhornan,GB,,,,,,,,no,,,,54.301661,-5.552101,4326,,,no,,,,,SE,,,,Coastal walking,no,,no,Scuba diving,yes,Boat;Pedestrian,,,,,,Clean ups carried out by Volunteers through the Live Here Love Here Campaign under the Umbrella of Keep Northern Ireland Beautiful,
+UK027,Minearny,GB,,,,,,,,no,,,,55.11787,-6.98677,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK028,Ballywalter,GB,,,,,,,,no,,,,54.544379,-5.482291,4326,,,yes,"Caravan Park, Tennis Courts, Car parking and harbour",,,,E,,,,Coastal walking,no,,no,Board sports,yes,Boat;Pedestrian,no,,Other,,Manual,Carried out by Voluntters under the Live Here Love Here Campaign with Keep Northern Ireland Beautiful,
+UK029,Cloughey,GB,,,,,,,,no,,,,54.427943,-5.477543,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK030,Drains Bay,GB,,,,,,,,no,,,,54.878974,-5.834626,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK031,Hazelbank,GB,,,,,,,,no,,,,54.662755,-5.90017,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK032,Kilkeel North,GB,,,,,,,,no,,,,54.05751,-5.992111,4326,,,yes,"Car Parking, Housing, Play Area",,,,SE,,,,,no,Building sand castles,no,,no,Boat;Pedestrian,yes,,Other,,Manual,Volunteers,
+UK033,Portavogie,GB,,,,,,,,no,,,,54.463144,-5.436887,4326,,,yes,"Coastal path, housing, car parking and play area",,,,E,,,,Coastal walking,no,Building sand castles,yes,,no,Boat;Pedestrian,yes,,Other,,Manual,Volunteers,
+UK034,Rathlin,GB,,,,,,,,no,,,,55.29211,-6.192331,4326,,,yes,"Small Road, Housing",,,,S,,,,Coastal walking,no,,no,,no,Boat;Pedestrian,yes,,Other,,Manual,volunteers,
+UK035,Rostrevor,GB,,,,,,,,no,,,,54.098806,-6.20359,4326,,,yes,"Main Road, car parking, housing",,,,S,,,,,no,,no,Coastal walking,no,Pedestrian,yes,,Other,,Manual,Volunteers,
+UK036,Runkerry,GB,,,,,,,,no,,,,55.226085,-6.528202,4326,Dunes,,no,,,,,NW,,,,Coastal walking,no,Building sand castles,no,,no,Pedestrian,yes,,Other,,Manual,volunteer clean ups,
+UK037,Tyrella,GB,,,,,,,,no,,,,54.249848,-5.736248,4326,,,yes,Road and housing,,,,S,,,,Coastal walking,no,,no,Building sand castles,no,Pedestrian,yes,,Other,,Manual,Volunteer clean ups,
+UK038,White Park Bay,GB,,,,,,,,no,,,,55.232984,-6.39798,4326,Dunes,,no,,,,,N,,,,Coastal walking,no,,no,Building sand castles,no,Pedestrian,yes,,Other,,Manual,Volunteer clean ups,
+UK039,Tal-y-Foel,GB,,,,,,,,no,,,,53.157862,-4.280655,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK040,Seatown,GB,,,,,,,,no,,,,50.720695,-2.818551,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK041,Polhawn,GB,,,,,,,,no,,,,50.32526,-4.22019,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK042,Felixstowe (Cobbolds Point to the dip),GB,,,,,,,,no,,,,51.96296,1.37016,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK043,Jubilee Beach,GB,,,,,,,,no,,,,51.52999,0.73329,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK044,Rottingdean,GB,,,,,,,,no,,,,50.801085,-0.055339,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK045,Lunderston Bay,GB,,,,,,,,no,,,,55.930325,-4.876221,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK046,Mill Bay (Orkney),GB,,,,,,,,no,,,,59.11874,-2.59924,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK047,Kinghorn Harbour,GB,,,,,,,,no,,,,56.06934,-3.1721,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK048,Formby (Freshfields),GB,,,,,,,,no,,,,53.566339,-3.098847,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK049,Robin Hood''s Bay,GB,,,,,,,,no,,,,54.42448,-0.52997,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK050,Saltburn,GB,,,,,,,,no,,,,54.586003,-0.967634,4326,,,,,,,,,,,,,,,,,,,,,,,,,
+UK051,Le Braye Slip,GB,,,,,,,,no,,,,49.198476,-2.22677,4326,,,,,,,,,,,,,,,,,,,,,,,,,
